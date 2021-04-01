@@ -75,7 +75,11 @@ const words = [
     'data',
     'npm',
     'server',
-    'bash'
+    'bash',
+    'sanjam',
+    'saksshi',
+    'thapar',
+    'internship'
 ];
 
 const setlevel=(e)=> {
