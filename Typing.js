@@ -53,26 +53,26 @@ const words = [
     'damn',
     'block',
     'ranking',
-    'nice',
+    'nachos',
     'machine',
     'perfect',
-    'deploy',
-    'terminal',
+    'deployment',
+    'termination',
     'array',
     'vue',
-    'node',
+    'nodejs',
     'html',
-    'front',
+    'frontend',
     'grid',
-    'stack',
-    'mac',
-    'console',
-    'ajax',
-    'heroku',
-    'loop',
+    'stacks',
+    'macandchese',
+    'consoles',
+    'gaming',
+    'pizza',
+    'looping',
     'sql',
-    'php',
-    'data',
+    'programming',
+    'datasaver',
     'npm',
     'server',
     'bash'
@@ -89,6 +89,7 @@ const setlevel=(e)=> {
     console.log(currentLevel);
     initiate();
 }
+
 
 function initiate() {
     seconds.innerHTML = currentLevel;
