@@ -83,7 +83,11 @@ const words = [
     'Computer',
     'Physics',
     'Maths',
-    'Java script'
+    'Java script',
+    'NIT Kurukshetra',
+    'Chandigarh',
+    'Rajasthan',
+    'Amritsar'
 ];
 
 const setlevel=(e)=> {
