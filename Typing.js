@@ -79,7 +79,11 @@ const words = [
     'sanjam',
     'saksshi',
     'thapar',
-    'internship'
+    'internship',
+    'Computer',
+    'Physics',
+    'Maths',
+    'Java script'
 ];
 
 const setlevel=(e)=> {
